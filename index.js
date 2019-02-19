@@ -22,7 +22,7 @@ return Object.assign ({}, recipes,{ [object]:value}  )
    
  }
  var newrecipes= {object2:'(Object.assign({},newrecipes)'}
- function deleteFromObjectByKey(recipes,object)
+ function deleteFromObjectByKey(newrecipes,object2)
  {
    
   
